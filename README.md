@@ -1,3 +1,3 @@
-#Computation-and-Software-Engineering
+#CS && CSE
 
 Hodgepodge

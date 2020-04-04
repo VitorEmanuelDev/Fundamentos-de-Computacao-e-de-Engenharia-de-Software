@@ -17,3 +17,7 @@ http://eaulas.usp.br/portal/video.action;jsessionid=49DEB17C89FA42FDE092F382B17B
 https://www.youtube.com/watch?v=PDgT0T0Yodo
 
 https://www.youtube.com/watch?v=7igvEoqSby8&list=PL-CA2pWf7G_TDBrafTV_-QbZxwx57FSmq&index=1
+
+https://www.youtube.com/playlist?list=PLcoJJSvnDgcKpOi_UeneTNTIVOigRQwcn
+
+https://www.ime.usp.br/~pf/algoritmos/sitios.html
